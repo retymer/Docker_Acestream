@@ -1,4 +1,4 @@
-# Docker_Acestream
+# Docker_Acestream for command line
 The image compilation command serves as the
 
   docker build -t acestream ~ / DockerMy
